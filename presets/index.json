@@ -1,0 +1,42 @@
+{
+  "format": "wordkeeper-presets",
+  "formatVersion": 1,
+  "presets": [
+    {
+      "id": "spanish-a1-ru",
+      "title": {
+        "en": "Spanish A1 → Russian",
+        "de": "Spanisch A1 → Russisch"
+      },
+      "description": {
+        "en": "Everyday beginner words and expressions",
+        "de": "Alltägliche Wörter und Ausdrücke für Anfänger"
+      },
+      "wordCount": 40
+    },
+    {
+      "id": "english-b2-ru",
+      "title": {
+        "en": "English B2 → Russian",
+        "de": "Englisch B2 → Russisch"
+      },
+      "description": {
+        "en": "Upper-intermediate words for ideas and discussion",
+        "de": "Fortgeschrittene Wörter für Ideen und Gespräche"
+      },
+      "wordCount": 40
+    },
+    {
+      "id": "armenian-a1-ru",
+      "title": {
+        "en": "Armenian A1 → Russian",
+        "de": "Armenisch A1 → Russisch"
+      },
+      "description": {
+        "en": "Everyday beginner words in Eastern Armenian",
+        "de": "Alltägliche Anfängerwörter auf Ostarmenisch"
+      },
+      "wordCount": 40
+    }
+  ]
+}
