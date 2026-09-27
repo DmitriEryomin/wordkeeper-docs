@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "english-b2-society-ru",
+  "category": "English B2: Society and education → Russian",
+  "words": [
+    { "term": "inequality", "translation": "неравенство" },
+    { "term": "community", "translation": "сообщество" },
+    { "term": "volunteer", "translation": "доброволец; заниматься волонтёрством" },
+    { "term": "charity", "translation": "благотворительность; благотворительная организация" },
+    { "term": "welfare", "translation": "социальное обеспечение" },
+    { "term": "household", "translation": "домохозяйство" },
+    { "term": "poverty", "translation": "бедность" },
+    { "term": "access", "translation": "доступ" },
+    { "term": "compulsory", "translation": "обязательный" },
+    { "term": "curriculum", "translation": "учебная программа" },
+    { "term": "academic", "translation": "учебный; академический" },
+    { "term": "literacy", "translation": "грамотность" },
+    { "term": "achievement", "translation": "достижение" },
+    { "term": "drop out", "translation": "бросить учёбу" },
+    { "term": "funding", "translation": "финансирование" },
+    { "term": "policy", "translation": "политика; курс действий" },
+    { "term": "survey", "translation": "опрос" },
+    { "term": "attitude", "translation": "отношение; позиция" },
+    { "term": "participate", "translation": "участвовать" },
+    { "term": "influence", "translation": "влиять; влияние" }
+  ]
+}

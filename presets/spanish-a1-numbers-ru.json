@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "spanish-a1-numbers-ru",
+  "category": "Spanish A1: Numbers → Russian",
+  "words": [
+    { "term": "cero", "translation": "ноль" },
+    { "term": "uno", "translation": "один" },
+    { "term": "dos", "translation": "два" },
+    { "term": "tres", "translation": "три" },
+    { "term": "cuatro", "translation": "четыре" },
+    { "term": "cinco", "translation": "пять" },
+    { "term": "seis", "translation": "шесть" },
+    { "term": "siete", "translation": "семь" },
+    { "term": "ocho", "translation": "восемь" },
+    { "term": "nueve", "translation": "девять" },
+    { "term": "diez", "translation": "десять" },
+    { "term": "once", "translation": "одиннадцать" },
+    { "term": "doce", "translation": "двенадцать" },
+    { "term": "trece", "translation": "тринадцать" },
+    { "term": "catorce", "translation": "четырнадцать" },
+    { "term": "quince", "translation": "пятнадцать" },
+    { "term": "dieciséis", "translation": "шестнадцать" },
+    { "term": "veinte", "translation": "двадцать" },
+    { "term": "treinta", "translation": "тридцать" },
+    { "term": "cien", "translation": "сто" }
+  ]
+}

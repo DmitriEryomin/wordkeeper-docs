@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "spanish-a1-people-ru",
+  "category": "Spanish A1: Describing people → Russian",
+  "words": [
+    { "term": "persona", "translation": "человек" },
+    { "term": "hombre", "translation": "мужчина" },
+    { "term": "mujer", "translation": "женщина" },
+    { "term": "niño", "translation": "мальчик; ребёнок" },
+    { "term": "niña", "translation": "девочка" },
+    { "term": "amable", "translation": "добрый; любезный" },
+    { "term": "simpático", "translation": "приятный; дружелюбный (м.)" },
+    { "term": "simpática", "translation": "приятная; дружелюбная (ж.)" },
+    { "term": "serio", "translation": "серьёзный (м.)" },
+    { "term": "seria", "translation": "серьёзная (ж.)" },
+    { "term": "alto", "translation": "высокий (м.)" },
+    { "term": "alta", "translation": "высокая (ж.)" },
+    { "term": "bajo", "translation": "невысокий (м.)" },
+    { "term": "baja", "translation": "невысокая (ж.)" },
+    { "term": "joven", "translation": "молодой; молодая" },
+    { "term": "mayor", "translation": "старший; пожилой" },
+    { "term": "pelo", "translation": "волосы" },
+    { "term": "ojos", "translation": "глаза" },
+    { "term": "guapo", "translation": "красивый (м.)" },
+    { "term": "guapa", "translation": "красивая (ж.)" }
+  ]
+}

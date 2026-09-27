@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "spanish-a1-verbs-ru",
+  "category": "Spanish A1: Essential verbs → Russian",
+  "words": [
+    { "term": "ser", "translation": "быть; являться" },
+    { "term": "estar", "translation": "быть; находиться" },
+    { "term": "tener", "translation": "иметь" },
+    { "term": "hacer", "translation": "делать" },
+    { "term": "ir", "translation": "идти; ехать" },
+    { "term": "venir", "translation": "приходить; приезжать" },
+    { "term": "vivir", "translation": "жить" },
+    { "term": "hablar", "translation": "говорить" },
+    { "term": "comer", "translation": "есть" },
+    { "term": "beber", "translation": "пить" },
+    { "term": "querer", "translation": "хотеть; любить" },
+    { "term": "poder", "translation": "мочь" },
+    { "term": "necesitar", "translation": "нуждаться в; нуждаться" },
+    { "term": "gustar", "translation": "нравиться" },
+    { "term": "trabajar", "translation": "работать" },
+    { "term": "estudiar", "translation": "учиться; изучать" },
+    { "term": "leer", "translation": "читать" },
+    { "term": "escribir", "translation": "писать" },
+    { "term": "abrir", "translation": "открывать" },
+    { "term": "cerrar", "translation": "закрывать" }
+  ]
+}

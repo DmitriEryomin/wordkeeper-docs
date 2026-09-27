@@ -15,6 +15,54 @@
       "wordCount": 40
     },
     {
+      "id": "spanish-a1-people-ru",
+      "title": {
+        "en": "Spanish A1: Describing people → Russian",
+        "de": "Spanisch A1: Menschen beschreiben → Russisch"
+      },
+      "description": {
+        "en": "Basic words for appearance and personality",
+        "de": "Grundwörter für Aussehen und Persönlichkeit"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "spanish-a1-home-ru",
+      "title": {
+        "en": "Spanish A1: Home and rooms → Russian",
+        "de": "Spanisch A1: Zuhause und Räume → Russisch"
+      },
+      "description": {
+        "en": "Rooms, furniture, and things around the home",
+        "de": "Räume, Möbel und Dinge im Zuhause"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "spanish-a1-numbers-ru",
+      "title": {
+        "en": "Spanish A1: Numbers → Russian",
+        "de": "Spanisch A1: Zahlen → Russisch"
+      },
+      "description": {
+        "en": "Counting, quantities, and simple number words",
+        "de": "Zählen, Mengen und einfache Zahlwörter"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "spanish-a1-verbs-ru",
+      "title": {
+        "en": "Spanish A1: Essential verbs → Russian",
+        "de": "Spanisch A1: Wichtige Verben → Russisch"
+      },
+      "description": {
+        "en": "Common infinitives for everyday situations",
+        "de": "Häufige Infinitive für Alltagssituationen"
+      },
+      "wordCount": 20
+    },
+    {
       "id": "english-b2-ru",
       "title": {
         "en": "English B2 → Russian",
@@ -23,6 +71,66 @@
       "description": {
         "en": "Upper-intermediate words for ideas and discussion",
         "de": "Fortgeschrittene Wörter für Ideen und Gespräche"
+      },
+      "wordCount": 40
+    },
+    {
+      "id": "english-b2-work-ru",
+      "title": {
+        "en": "English B2: Work and careers → Russian",
+        "de": "Englisch B2: Arbeit und Karriere → Russisch"
+      },
+      "description": {
+        "en": "Vocabulary for jobs, management, and professional growth",
+        "de": "Wortschatz zu Berufen, Führung und beruflicher Entwicklung"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "english-b2-environment-ru",
+      "title": {
+        "en": "English B2: Environment and climate → Russian",
+        "de": "Englisch B2: Umwelt und Klima → Russisch"
+      },
+      "description": {
+        "en": "Words for discussing climate, resources, and conservation",
+        "de": "Wörter zu Klima, Ressourcen und Umweltschutz"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "english-b2-society-ru",
+      "title": {
+        "en": "English B2: Society and education → Russian",
+        "de": "Englisch B2: Gesellschaft und Bildung → Russisch"
+      },
+      "description": {
+        "en": "Vocabulary for social issues, learning, and public life",
+        "de": "Wortschatz zu sozialen Fragen, Lernen und öffentlichem Leben"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "english-b2-technology-ru",
+      "title": {
+        "en": "English B2: Technology and media → Russian",
+        "de": "Englisch B2: Technologie und Medien → Russisch"
+      },
+      "description": {
+        "en": "Words for digital tools, communication, and online life",
+        "de": "Wörter zu digitalen Werkzeugen, Kommunikation und Onlineleben"
+      },
+      "wordCount": 20
+    },
+    {
+      "id": "spanish-a2-hy",
+      "title": {
+        "en": "Spanish A2 → Armenian",
+        "de": "Spanisch A2 → Armenisch"
+      },
+      "description": {
+        "en": "Everyday vocabulary in Spanish with Eastern Armenian translations",
+        "de": "Alltagswortschatz auf Spanisch mit ostarmenischen Übersetzungen"
       },
       "wordCount": 40
     },

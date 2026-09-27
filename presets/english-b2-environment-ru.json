@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "english-b2-environment-ru",
+  "category": "English B2: Environment and climate → Russian",
+  "words": [
+    { "term": "climate change", "translation": "изменение климата" },
+    { "term": "carbon footprint", "translation": "углеродный след" },
+    { "term": "renewable energy", "translation": "возобновляемая энергия" },
+    { "term": "fossil fuels", "translation": "ископаемое топливо" },
+    { "term": "emissions", "translation": "выбросы" },
+    { "term": "conservation", "translation": "охрана природы" },
+    { "term": "biodiversity", "translation": "биоразнообразие" },
+    { "term": "habitat", "translation": "среда обитания" },
+    { "term": "drought", "translation": "засуха" },
+    { "term": "flood", "translation": "наводнение" },
+    { "term": "extinct", "translation": "вымерший" },
+    { "term": "endangered", "translation": "находящийся под угрозой исчезновения" },
+    { "term": "sustainable", "translation": "устойчивый; экологичный" },
+    { "term": "recycle", "translation": "перерабатывать" },
+    { "term": "dispose of", "translation": "утилизировать" },
+    { "term": "waste", "translation": "отходы" },
+    { "term": "resource", "translation": "ресурс" },
+    { "term": "shortage", "translation": "нехватка" },
+    { "term": "severe", "translation": "суровый; серьёзный" },
+    { "term": "raise awareness", "translation": "повышать осведомлённость" }
+  ]
+}

@@ -11,7 +11,7 @@ pairs. `formatVersion` is currently 1. Keep existing IDs stable: changing a
 published list changes what future imports receive. If a word pair already
 exists in a local Dictionary, importing a revised list skips it.
 
-The three initial lists are small, curated introductions rather than exhaustive
-or officially certified CEFR vocabularies. The Armenian list uses Eastern
-Armenian. Review translations and level placement with fluent speakers before
-expanding the lists.
+The lists are small, curated introductions rather than exhaustive or officially
+certified CEFR vocabularies. Armenian translations use Eastern Armenian.
+Review translations and level placement with fluent speakers before publishing
+new or substantially revised lists.

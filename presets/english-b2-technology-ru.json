@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "english-b2-technology-ru",
+  "category": "English B2: Technology and media → Russian",
+  "words": [
+    { "term": "device", "translation": "устройство" },
+    { "term": "privacy", "translation": "конфиденциальность; частная жизнь" },
+    { "term": "data breach", "translation": "утечка данных" },
+    { "term": "cybersecurity", "translation": "кибербезопасность" },
+    { "term": "artificial intelligence", "translation": "искусственный интеллект" },
+    { "term": "automation", "translation": "автоматизация" },
+    { "term": "reliable", "translation": "надёжный" },
+    { "term": "access", "translation": "доступ" },
+    { "term": "download", "translation": "скачивать; загрузка" },
+    { "term": "upload", "translation": "загружать в сеть" },
+    { "term": "browse", "translation": "просматривать; искать в интернете" },
+    { "term": "update", "translation": "обновлять; обновление" },
+    { "term": "feature", "translation": "функция; особенность" },
+    { "term": "user-friendly", "translation": "удобный для пользователя" },
+    { "term": "streaming", "translation": "потоковая передача; стриминг" },
+    { "term": "broadcast", "translation": "трансляция; транслировать" },
+    { "term": "headline", "translation": "заголовок" },
+    { "term": "misleading", "translation": "вводящий в заблуждение" },
+    { "term": "source", "translation": "источник" },
+    { "term": "subscription", "translation": "подписка" }
+  ]
+}

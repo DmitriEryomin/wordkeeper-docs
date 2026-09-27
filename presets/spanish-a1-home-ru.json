@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "spanish-a1-home-ru",
+  "category": "Spanish A1: Home and rooms → Russian",
+  "words": [
+    { "term": "casa", "translation": "дом" },
+    { "term": "piso", "translation": "квартира (Испания)" },
+    { "term": "apartamento", "translation": "квартира" },
+    { "term": "habitación", "translation": "комната" },
+    { "term": "dormitorio", "translation": "спальня" },
+    { "term": "salón", "translation": "гостиная" },
+    { "term": "cocina", "translation": "кухня" },
+    { "term": "baño", "translation": "ванная; туалет" },
+    { "term": "comedor", "translation": "столовая" },
+    { "term": "pasillo", "translation": "коридор" },
+    { "term": "puerta", "translation": "дверь" },
+    { "term": "ventana", "translation": "окно" },
+    { "term": "pared", "translation": "стена" },
+    { "term": "suelo", "translation": "пол" },
+    { "term": "mesa", "translation": "стол" },
+    { "term": "silla", "translation": "стул" },
+    { "term": "cama", "translation": "кровать" },
+    { "term": "sofá", "translation": "диван" },
+    { "term": "armario", "translation": "шкаф" },
+    { "term": "lámpara", "translation": "лампа" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "format": "wordkeeper-preset",
+  "formatVersion": 1,
+  "id": "english-b2-work-ru",
+  "category": "English B2: Work and careers → Russian",
+  "words": [
+    { "term": "career progression", "translation": "карьерный рост" },
+    { "term": "workload", "translation": "рабочая нагрузка" },
+    { "term": "deadline", "translation": "крайний срок" },
+    { "term": "colleague", "translation": "коллега" },
+    { "term": "supervisor", "translation": "руководитель" },
+    { "term": "applicant", "translation": "кандидат на должность" },
+    { "term": "qualification", "translation": "квалификация" },
+    { "term": "vacancy", "translation": "вакансия" },
+    { "term": "promotion", "translation": "повышение в должности" },
+    { "term": "resign", "translation": "увольняться по собственному желанию" },
+    { "term": "negotiate", "translation": "вести переговоры" },
+    { "term": "delegate", "translation": "поручать; делегировать" },
+    { "term": "collaborate", "translation": "сотрудничать" },
+    { "term": "efficient", "translation": "эффективный" },
+    { "term": "flexible", "translation": "гибкий" },
+    { "term": "remotely", "translation": "удалённо" },
+    { "term": "salary", "translation": "зарплата" },
+    { "term": "benefit", "translation": "льгота; бонус" },
+    { "term": "temporary", "translation": "временный" },
+    { "term": "responsibility", "translation": "ответственность" }
+  ]
+}
