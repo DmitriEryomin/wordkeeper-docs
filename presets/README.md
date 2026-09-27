@@ -1,8 +1,11 @@
-# Wordkeeper presets
+# Learn Your Words presets
 
 The public `index.json` catalogue and its matching `<id>.json` files are served
-from `/presets/` by GitHub Pages. Wordkeeper downloads them only when a person
+from `/presets/` by GitHub Pages. Learn Your Words downloads them only when a person
 opens Import presets or selects a list. Nothing in the local Dictionary is sent.
+
+The `wordkeeper-presets` catalogue format and `wordkeeper-preset` list format
+remain stable compatibility identifiers after the rename to Learn Your Words.
 
 Each catalogue item has a stable lowercase `id`, localized `title` and
 `description` (`en` and `de`), and an exact `wordCount`. The matching file has

@@ -1,8 +1,8 @@
-# Wordkeeper product and technical plan
+# Learn Your Words product and technical plan
 
 ## Product goal
 
-Wordkeeper replaces a paper notebook for manually recording foreign-language words and their translations. It is intentionally private and local-first: there is no account, backend, automatic synchronization, analytics, or app-owned cloud storage.
+Learn Your Words replaces a paper notebook for manually recording foreign-language words and their translations. It is intentionally private and local-first: there is no account, backend, automatic synchronization, analytics, or app-owned cloud storage.
 
 The mobile MVP supports iOS and Android and allows a user to:
 
@@ -29,7 +29,7 @@ Literal handwriting recognition, translation APIs, learning exercises, accounts,
 ### Export a backup
 
 1. Open the Dictionary menu and choose Export dictionary.
-2. Wordkeeper creates a versioned JSON file in temporary storage.
+2. Learn Your Words creates a versioned JSON file in temporary storage.
 3. The native share sheet lets the user save or share the file.
 
 The app never uploads a backup automatically. The user controls its destination.
@@ -37,7 +37,7 @@ The app never uploads a backup automatically. The user controls its destination.
 ### Import a backup
 
 1. Choose Import dictionary and select one JSON backup with the native document picker.
-2. Wordkeeper validates the file without changing the database.
+2. Learn Your Words validates the file without changing the database.
 3. A preview shows words, categories, duplicates, and the expected result.
 4. The user merges the backup or explicitly replaces the current dictionary.
 5. The import is applied atomically or rolled back completely.
