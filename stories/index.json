@@ -1,0 +1,36 @@
+{
+  "format": "wordkeeper-stories",
+  "formatVersion": 1,
+  "stories": [
+    {
+      "id": "la-llave-azul-a1-ru",
+      "title": {
+        "en": "The blue key",
+        "de": "Der blaue Schlüssel"
+      },
+      "description": {
+        "en": "A small discovery brings a quiet street together.",
+        "de": "Ein kleiner Fund bringt eine ruhige Straße zusammen."
+      },
+      "level": "A1",
+      "languageCode": "es",
+      "translationLanguageCode": "ru",
+      "readingMinutes": 3
+    },
+    {
+      "id": "el-reloj-de-la-estacion-a2-ru",
+      "title": {
+        "en": "The station clock",
+        "de": "Die Bahnhofsuhr"
+      },
+      "description": {
+        "en": "A stopped clock reveals a surprising reason to wait.",
+        "de": "Eine stehen gebliebene Uhr gibt einen überraschenden Grund zum Warten."
+      },
+      "level": "A2",
+      "languageCode": "es",
+      "translationLanguageCode": "ru",
+      "readingMinutes": 3
+    }
+  ]
+}
