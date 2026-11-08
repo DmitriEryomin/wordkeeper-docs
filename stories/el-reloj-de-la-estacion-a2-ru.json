@@ -1,0 +1,200 @@
+{
+  "format": "wordkeeper-story",
+  "formatVersion": 1,
+  "id": "el-reloj-de-la-estacion-a2-ru",
+  "title": {
+    "en": "The station clock",
+    "de": "Die Bahnhofsuhr"
+  },
+  "description": {
+    "en": "A stopped clock reveals a surprising reason to wait.",
+    "de": "Eine stehen gebliebene Uhr gibt einen überraschenden Grund zum Warten."
+  },
+  "level": "A2",
+  "languageCode": "es",
+  "translationLanguageCode": "ru",
+  "readingMinutes": 3,
+  "name": "El reloj de la estación",
+  "words": [
+    {
+      "id": "estacion",
+      "term": "estación",
+      "translation": "вокзал"
+    },
+    {
+      "id": "reloj",
+      "term": "reloj",
+      "translation": "часы"
+    },
+    {
+      "id": "retraso",
+      "term": "retraso",
+      "translation": "опоздание"
+    },
+    {
+      "id": "maleta",
+      "term": "maleta",
+      "translation": "чемодан"
+    },
+    {
+      "id": "arreglar",
+      "term": "arreglar",
+      "translation": "чинить"
+    },
+    {
+      "id": "recordar",
+      "term": "recordar",
+      "translation": "помнить"
+    },
+    {
+      "id": "despedida",
+      "term": "despedida",
+      "translation": "прощание"
+    },
+    {
+      "id": "de-pronto",
+      "term": "De pronto",
+      "translation": "Вдруг"
+    },
+    {
+      "id": "darse-cuenta",
+      "term": "darse cuenta",
+      "translation": "осознавать"
+    },
+    {
+      "id": "a-tiempo",
+      "term": "a tiempo",
+      "translation": "вовремя"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Cuando llegó a la "
+      },
+      {
+        "text": "estación",
+        "wordId": "estacion"
+      },
+      {
+        "text": ", Marcos miró el gran "
+      },
+      {
+        "text": "reloj",
+        "wordId": "reloj"
+      },
+      {
+        "text": " de la entrada. Marcaba las cinco y diez. Su tren salía a las cinco y media, así que decidió comprar un café. Era su primer viaje para visitar a su hermana desde que ella se había mudado a otra ciudad."
+      }
+    ],
+    [
+      {
+        "text": "En la cafetería, una mujer dejó una "
+      },
+      {
+        "text": "maleta",
+        "wordId": "maleta"
+      },
+      {
+        "text": " roja junto a su mesa. «Ese "
+      },
+      {
+        "text": "reloj",
+        "wordId": "reloj"
+      },
+      {
+        "text": " siempre marca la misma hora», le dijo al verlo mirar hacia la entrada. Marcos sacó el teléfono del bolsillo. Eran las cinco y veinte. Por suerte, todavía tenía unos minutos antes de salir al andén."
+      }
+    ],
+    [
+      {
+        "text": "«¿Por qué no lo pueden "
+      },
+      {
+        "text": "arreglar",
+        "wordId": "arreglar"
+      },
+      {
+        "text": "?», preguntó. La mujer se llamaba Clara y trabajaba en la "
+      },
+      {
+        "text": "estación",
+        "wordId": "estacion"
+      },
+      {
+        "text": " desde hacía treinta años. Le explicó que el "
+      },
+      {
+        "text": "reloj",
+        "wordId": "reloj"
+      },
+      {
+        "text": " ya no funcionaba, pero que habían instalado pantallas nuevas. «Algunas personas quieren quitarlo. Para otras, es una forma de "
+      },
+      {
+        "text": "recordar",
+        "wordId": "recordar"
+      },
+      {
+        "text": " a alguien»."
+      }
+    ],
+    [
+      {
+        "text": "Clara señaló una fotografía antigua en la pared. Aparecía un hombre joven debajo del "
+      },
+      {
+        "text": "reloj",
+        "wordId": "reloj"
+      },
+      {
+        "text": ", con un ramo de flores. «Era mi padre. Aquí conoció a mi madre. Ella perdió su tren porque su autobús había llegado con "
+      },
+      {
+        "text": "retraso",
+        "wordId": "retraso"
+      },
+      {
+        "text": ". Él esperaba a su hermano. Se quedaron hablando hasta las cinco y diez»."
+      }
+    ],
+    [
+      {
+        "text": "Marcos sonrió, pero entonces oyó un anuncio. Su tren iba a salir del andén cuatro. Se levantó rápidamente y casi olvidó el café. "
+      },
+      {
+        "text": "De pronto",
+        "wordId": "de-pronto"
+      },
+      {
+        "text": ", vio a un niño buscando algo debajo de una silla. Su madre lo llamaba desde la puerta. Marcos encontró un pequeño oso de tela y se lo entregó."
+      }
+    ],
+    [
+      {
+        "text": "Llegó al tren "
+      },
+      {
+        "text": "a tiempo",
+        "wordId": "a-tiempo"
+      },
+      {
+        "text": " y buscó su asiento. Antes de salir, escribió a su hermana: «Hoy quiero escucharte. No tenemos que hacer nada especial». Empezaba a "
+      },
+      {
+        "text": "darse cuenta",
+        "wordId": "darse-cuenta"
+      },
+      {
+        "text": " de algo: había pasado semanas organizando el viaje y casi nunca le había preguntado cómo estaba. La próxima "
+      },
+      {
+        "text": "despedida",
+        "wordId": "despedida"
+      },
+      {
+        "text": " podía esperar."
+      }
+    ]
+  ]
+}

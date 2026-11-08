@@ -1,0 +1,249 @@
+{
+  "format": "wordkeeper-story",
+  "formatVersion": 1,
+  "id": "la-llave-azul-a1-ru",
+  "title": {
+    "en": "The blue key",
+    "de": "Der blaue Schlüssel"
+  },
+  "description": {
+    "en": "A small discovery brings a quiet street together.",
+    "de": "Ein kleiner Fund bringt eine ruhige Straße zusammen."
+  },
+  "level": "A1",
+  "languageCode": "es",
+  "translationLanguageCode": "ru",
+  "readingMinutes": 3,
+  "name": "La llave azul",
+  "words": [
+    {
+      "id": "llave",
+      "term": "llave",
+      "translation": "ключ"
+    },
+    {
+      "id": "bolsillo",
+      "term": "bolsillo",
+      "translation": "карман"
+    },
+    {
+      "id": "vecina",
+      "term": "vecina",
+      "translation": "соседка"
+    },
+    {
+      "id": "panaderia",
+      "term": "panadería",
+      "translation": "пекарня"
+    },
+    {
+      "id": "puerta",
+      "term": "puerta",
+      "translation": "дверь"
+    },
+    {
+      "id": "jardin",
+      "term": "jardín",
+      "translation": "сад"
+    },
+    {
+      "id": "caja",
+      "term": "caja",
+      "translation": "коробка"
+    },
+    {
+      "id": "semillas",
+      "term": "semillas",
+      "translation": "семена"
+    },
+    {
+      "id": "regar",
+      "term": "regar",
+      "translation": "поливать"
+    },
+    {
+      "id": "juntos",
+      "term": "juntos",
+      "translation": "вместе"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Cada mañana, Ana camina hasta la "
+      },
+      {
+        "text": "panadería",
+        "wordId": "panaderia"
+      },
+      {
+        "text": " de su barrio. Compra pan para ella y para su padre. Hoy hace sol y las calles están tranquilas. Cerca de una casa blanca, Ana ve algo azul en el suelo. Es una "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": " pequeña con una cinta de tela."
+      }
+    ],
+    [
+      {
+        "text": "Ana guarda la "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": " en el "
+      },
+      {
+        "text": "bolsillo",
+        "wordId": "bolsillo"
+      },
+      {
+        "text": " y mira las ventanas. No hay nadie. En la "
+      },
+      {
+        "text": "panadería",
+        "wordId": "panaderia"
+      },
+      {
+        "text": " pregunta al vendedor: «¿Conoces esta "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": "?». El hombre mira la cinta y sonríe. «No, pero mi "
+      },
+      {
+        "text": "vecina",
+        "wordId": "vecina"
+      },
+      {
+        "text": " tiene muchas cosas azules. Vive en la casa blanca, al lado del parque»."
+      }
+    ],
+    [
+      {
+        "text": "Ana vuelve a la casa y llama a la "
+      },
+      {
+        "text": "puerta",
+        "wordId": "puerta"
+      },
+      {
+        "text": ". Una mujer mayor abre. Lleva una camisa azul y tiene las manos llenas de tierra. «Buenos días. ¿Es suya esta "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": "?», pregunta Ana. «¡Sí!», dice la mujer. «Soy Elena. Muchas gracias. ¿Quieres ver qué abre?»."
+      }
+    ],
+    [
+      {
+        "text": "Detrás de la casa hay un "
+      },
+      {
+        "text": "jardín",
+        "wordId": "jardin"
+      },
+      {
+        "text": " pequeño. No tiene flores, solo unas plantas y dos sillas viejas. Elena busca una "
+      },
+      {
+        "text": "caja",
+        "wordId": "caja"
+      },
+      {
+        "text": " debajo de una mesa. Ana le da la "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": ". Dentro de la "
+      },
+      {
+        "text": "caja",
+        "wordId": "caja"
+      },
+      {
+        "text": " hay "
+      },
+      {
+        "text": "semillas",
+        "wordId": "semillas"
+      },
+      {
+        "text": " en bolsas de papel. Cada bolsa tiene un dibujo diferente."
+      }
+    ],
+    [
+      {
+        "text": "«Quiero hacer un "
+      },
+      {
+        "text": "jardín",
+        "wordId": "jardin"
+      },
+      {
+        "text": " para todo el barrio», explica Elena. «Pero necesito ayuda para plantar y "
+      },
+      {
+        "text": "regar",
+        "wordId": "regar"
+      },
+      {
+        "text": "». Ana piensa un momento. Su padre tiene tiempo por las tardes. El vendedor de pan conoce a muchas personas. Ella puede escribir un mensaje y ponerlo en la tienda."
+      }
+    ],
+    [
+      {
+        "text": "Una semana después, diez personas trabajan en el "
+      },
+      {
+        "text": "jardín",
+        "wordId": "jardin"
+      },
+      {
+        "text": ". Hay niños, padres y vecinos de otras calles. Todos traen agua, plantas o comida. El padre de Ana prepara café. Elena pone la "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": " azul en una mesa. «Una persona encuentra una "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": "», dice, «y "
+      },
+      {
+        "text": "juntos",
+        "wordId": "juntos"
+      },
+      {
+        "text": " abrimos un "
+      },
+      {
+        "text": "jardín",
+        "wordId": "jardin"
+      },
+      {
+        "text": "»."
+      }
+    ]
+  ]
+}
