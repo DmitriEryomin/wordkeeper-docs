@@ -7,8 +7,8 @@
     "de": "Eine berufliche Chance"
   },
   "description": {
-    "en": "At a job fair in Mexico, Pablo talks about machines and discovers a shared love of football.",
-    "de": "Auf einer Jobmesse in Mexiko spricht Pablo über Maschinen und entdeckt eine gemeinsame Liebe zum Fußball."
+    "en": "Pablo’s experience with German and Japanese machines leads to an interview and a football invitation.",
+    "de": "Pablos Erfahrung mit deutschen und japanischen Maschinen führt zu einem Vorstellungsgespräch und einer Einladung zum Fußball."
   },
   "level": "A1",
   "languageCode": "es",
@@ -32,34 +32,34 @@
       "translation": "компания"
     },
     {
+      "id": "piezas-de-plastico",
+      "term": "pieza de plástico",
+      "translation": "пластиковая деталь"
+    },
+    {
       "id": "maquinas",
       "term": "máquina",
       "translation": "машина; механизм"
     },
     {
-      "id": "planos",
-      "term": "plano",
-      "translation": "чертёж"
+      "id": "especialidad",
+      "term": "especialidad",
+      "translation": "специализация"
     },
     {
-      "id": "equipo",
-      "term": "equipo",
-      "translation": "команда"
+      "id": "experiencia",
+      "term": "experiencia",
+      "translation": "опыт"
     },
     {
-      "id": "problema",
-      "term": "problema",
-      "translation": "проблема"
+      "id": "reparar",
+      "term": "reparar",
+      "translation": "ремонтировать"
     },
     {
-      "id": "dibujo",
-      "term": "dibujo",
-      "translation": "рисунок"
-    },
-    {
-      "id": "aficiones",
-      "term": "afición",
-      "translation": "увлечение"
+      "id": "entrevista",
+      "term": "entrevista",
+      "translation": "собеседование"
     },
     {
       "id": "futbol",
@@ -85,6 +85,11 @@
       "id": "calcetines",
       "term": "calcetín",
       "translation": "носок"
+    },
+    {
+      "id": "tienda-de-deportes",
+      "term": "tienda de deportes",
+      "translation": "спортивный магазин"
     }
   ],
   "paragraphs": [
@@ -97,104 +102,158 @@
         "wordId": "ingeniero-mecanico"
       },
       {
-        "text": " y vive en España. Está de visita en México y quiere conocer empresas del país. Su amigo Diego le habla de una "
+        "text": " y vive en España. Está de visita en México y busca oportunidades de trabajo. Su amigo Diego le habla de una "
       },
       {
         "text": "feria de empleo",
         "wordId": "feria-de-empleo"
       },
       {
-        "text": ". Por la mañana, Pablo va a la feria con su currículum."
+        "text": ". Por la mañana, Pablo va con su currículum."
       }
     ],
     [
       {
-        "text": "Hay muchas mesas y carteles. Pablo se acerca a una "
-      },
-      {
-        "text": "empresa",
-        "wordId": "empresa"
-      },
-      {
-        "text": " que trabaja con "
+        "text": "En una mesa hay fotos de "
       },
       {
         "text": "máquinas",
         "wordId": "maquinas"
       },
       {
-        "text": ". Un hombre le sonríe.\n—Hola, soy Luis. Busco personas para nuestra "
+        "text": " y "
+      },
+      {
+        "text": "piezas de plástico",
+        "wordId": "piezas-de-plastico"
+      },
+      {
+        "text": " para coches. Un hombre le sonríe.\n—Hola, soy Luis. Busco ingenieros para nuestra "
       },
       {
         "text": "empresa",
         "wordId": "empresa"
       },
       {
-        "text": ". ¿Cómo te llamas?\n—Pablo. Soy de España y soy "
+        "text": ".\n—Soy Pablo, "
       },
       {
         "text": "ingeniero mecánico",
         "wordId": "ingeniero-mecanico"
       },
       {
-        "text": "."
+        "text": ". ¿Fabrican piezas para coches?\n—Sí. ¿Qué sabes hacer?"
       }
     ],
     [
       {
-        "text": "Luis mira su currículum.\n—¿Qué sabes hacer?\n—Dibujo "
+        "text": "—Mi "
       },
       {
-        "text": "planos",
-        "wordId": "planos"
+        "text": "especialidad",
+        "wordId": "especialidad"
       },
       {
-        "text": ", trabajo con "
+        "text": " son las "
       },
       {
         "text": "máquinas",
         "wordId": "maquinas"
       },
       {
-        "text": " y busco soluciones. También me gusta trabajar en "
+        "text": " de Alemania, de la marca ARBURG. Son "
       },
       {
-        "text": "equipo",
-        "wordId": "equipo"
+        "text": "máquinas",
+        "wordId": "maquinas"
       },
       {
-        "text": ".\n—Muy bien. Aquí tenemos una máquina con un "
+        "text": " para fabricar "
       },
       {
-        "text": "problema",
-        "wordId": "problema"
+        "text": "piezas de plástico",
+        "wordId": "piezas-de-plastico"
       },
       {
-        "text": ".\nLuis le enseña una foto. La máquina está al lado de una pared. Su puerta no se puede abrir."
+        "text": ". También tengo "
+      },
+      {
+        "text": "experiencia",
+        "wordId": "experiencia"
+      },
+      {
+        "text": " con "
+      },
+      {
+        "text": "máquinas",
+        "wordId": "maquinas"
+      },
+      {
+        "text": " de Japón, de la marca JSW. Sé preparar y "
+      },
+      {
+        "text": "reparar",
+        "wordId": "reparar"
+      },
+      {
+        "text": " las "
+      },
+      {
+        "text": "máquinas",
+        "wordId": "maquinas"
+      },
+      {
+        "text": ". También puedo ayudar a otros trabajadores."
       }
     ],
     [
       {
-        "text": "Pablo quiere explicar una idea, pero no encuentra una palabra. Busca un lápiz en su mochila.\n—Un momento, por favor. Con un "
+        "text": "Luis mira su currículum con interés.\n—Nosotros tenemos "
       },
       {
-        "text": "dibujo",
-        "wordId": "dibujo"
+        "text": "máquinas",
+        "wordId": "maquinas"
       },
       {
-        "text": " es más fácil.\nDibuja la máquina, la pared y una flecha.\n—Podemos poner la máquina aquí. Hay más espacio para abrir la puerta.\n—¡Claro! —dice Luis—. Ahora entiendo."
+        "text": " de Alemania y de Japón. Pero pocas personas saben trabajar con las dos. Necesitamos a alguien con esa "
+      },
+      {
+        "text": "experiencia",
+        "wordId": "experiencia"
+      },
+      {
+        "text": ". Tu "
+      },
+      {
+        "text": "experiencia",
+        "wordId": "experiencia"
+      },
+      {
+        "text": " es muy útil para nosotros.\nPablo sonríe. Conoce bien esas "
+      },
+      {
+        "text": "máquinas",
+        "wordId": "maquinas"
+      },
+      {
+        "text": " y le gusta su trabajo."
       }
     ],
     [
       {
-        "text": "Después, Luis pregunta:\n—¿Y qué haces fuera del trabajo? ¿Cuáles son tus "
+        "text": "—¿Puedes venir mañana a una "
       },
       {
-        "text": "aficiones",
-        "wordId": "aficiones"
+        "text": "entrevista",
+        "wordId": "entrevista"
       },
       {
-        "text": "?\n—Me gusta caminar, cocinar y jugar al "
+        "text": "? —pregunta Luis—. A las diez, en nuestra fábrica.\n—Sí, claro.\nLuis apunta la hora y la dirección. Pablo las guarda en su teléfono."
+      }
+    ],
+    [
+      {
+        "text": "Después, Luis pregunta:\n—¿Y qué te gusta hacer fuera del trabajo?\n—Me gusta caminar, cocinar y jugar al "
       },
       {
         "text": "fútbol",
@@ -222,12 +281,12 @@
         "wordId": "companeros"
       },
       {
-        "text": ". ¿Quieres venir?"
+        "text": ". Es a las seis de la tarde, en el parque. ¿Quieres venir?"
       }
     ],
     [
       {
-        "text": "Pablo sonríe, pero mira sus pies.\n—Sí, gracias. Solo tengo estos zapatos. Necesito "
+        "text": "—¡Sí, gracias! Pero necesito "
       },
       {
         "text": "zapatos de fútbol",
@@ -241,19 +300,40 @@
         "wordId": "calcetines"
       },
       {
-        "text": " largos.\n—Hay una tienda de deportes cerca de tu hotel. Jugamos a las seis, en el parque."
+        "text": " largos. Solo tengo estos zapatos.\n—Conozco una "
+      },
+      {
+        "text": "tienda de deportes",
+        "wordId": "tienda-de-deportes"
+      },
+      {
+        "text": " en el centro. Te mando la dirección."
       }
     ],
     [
       {
-        "text": "Luis escribe su número de teléfono y la dirección del campo. Pablo guarda el papel con cuidado. Todavía no tiene un nuevo trabajo, pero mañana tiene un "
+        "text": "Luis le envía dos mensajes: uno con la dirección de la tienda y otro con la del campo.\nPablo le da las gracias. Mañana tiene una "
+      },
+      {
+        "text": "entrevista",
+        "wordId": "entrevista"
+      },
+      {
+        "text": " por la mañana y un "
       },
       {
         "text": "partido",
         "wordId": "partido"
       },
       {
-        "text": ". ¡Ahora necesita encontrar una tienda!"
+        "text": " por la tarde. Antes de salir de la feria, pone una alarma en el teléfono para llegar a tiempo a la "
+      },
+      {
+        "text": "entrevista",
+        "wordId": "entrevista"
+      },
+      {
+        "text": "."
       }
     ]
   ]

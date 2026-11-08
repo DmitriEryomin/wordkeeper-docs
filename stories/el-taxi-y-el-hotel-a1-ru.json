@@ -7,8 +7,8 @@
     "de": "Das Taxi und das Hotel"
   },
   "description": {
-    "en": "Pablo arrives in Mexico, but two similar hotel names make his taxi trip a puzzle.",
-    "de": "Pablo kommt in Mexiko an, doch zwei ähnliche Hotelnamen machen seine Taxifahrt zum Rätsel."
+    "en": "After a long flight to Mexico, Pablo takes a taxi to his hotel and waits for his room.",
+    "de": "Nach einem langen Flug nach Mexiko fährt Pablo mit dem Taxi zum Hotel und wartet auf sein Zimmer."
   },
   "level": "A1",
   "languageCode": "es",
@@ -37,29 +37,9 @@
       "translation": "водитель"
     },
     {
-      "id": "reserva",
-      "term": "reserva",
-      "translation": "бронирование"
-    },
-    {
       "id": "direccion",
       "term": "dirección",
       "translation": "адрес"
-    },
-    {
-      "id": "calle",
-      "term": "calle",
-      "translation": "улица"
-    },
-    {
-      "id": "pantalla",
-      "term": "pantalla",
-      "translation": "экран"
-    },
-    {
-      "id": "buscar",
-      "term": "buscar",
-      "translation": "искать"
     },
     {
       "id": "viaje",
@@ -67,9 +47,39 @@
       "translation": "поездка"
     },
     {
-      "id": "entrada",
-      "term": "entrada",
-      "translation": "вход"
+      "id": "recepcion",
+      "term": "recepción",
+      "translation": "стойка регистрации"
+    },
+    {
+      "id": "reserva",
+      "term": "reserva",
+      "translation": "бронирование"
+    },
+    {
+      "id": "pasaporte",
+      "term": "pasaporte",
+      "translation": "паспорт"
+    },
+    {
+      "id": "habitacion",
+      "term": "habitación",
+      "translation": "номер в гостинице"
+    },
+    {
+      "id": "esperar",
+      "term": "esperar",
+      "translation": "ждать"
+    },
+    {
+      "id": "vuelo",
+      "term": "vuelo",
+      "translation": "авиаперелёт"
+    },
+    {
+      "id": "cansado",
+      "term": "cansado",
+      "translation": "уставший"
     },
     {
       "id": "llave",
@@ -80,154 +90,203 @@
   "paragraphs": [
     [
       {
-        "text": "Pablo es de España y es ingeniero mecánico. Hoy llega a México. Quiere visitar a su amigo Diego y conocer la ciudad. En el "
+        "text": "Pablo es de España y es ingeniero mecánico. Hoy llega a México para visitar a su amigo Diego y conocer la ciudad. El "
+      },
+      {
+        "text": "vuelo",
+        "wordId": "vuelo"
+      },
+      {
+        "text": " es largo y Pablo tiene mucho sueño. En el "
       },
       {
         "text": "aeropuerto",
         "wordId": "aeropuerto"
       },
       {
-        "text": " hay mucha gente. Pablo tiene una "
+        "text": " recoge su "
       },
       {
         "text": "maleta",
         "wordId": "maleta"
       },
       {
-        "text": " azul, una mochila y mucho sueño."
-      }
-    ],
-    [
-      {
-        "text": "Busca la "
+        "text": " azul y busca la "
       },
       {
         "text": "salida",
         "wordId": "salida"
       },
       {
-        "text": " y ve una fila de taxis. Mira su teléfono. Su hotel se llama Hotel del Sol. Diego lo espera allí a las seis. Son las cinco y Pablo quiere llegar pronto."
+        "text": "."
       }
     ],
     [
       {
-        "text": "—Buenas tardes. ¿Está libre? —pregunta Pablo.\n—Sí, adelante —dice el "
+        "text": "Fuera hay una fila de taxis. Pablo se acerca al primero.\n—Buenas tardes. ¿Está libre?\n—Sí, adelante —dice el "
       },
       {
         "text": "conductor",
         "wordId": "conductor"
       },
       {
-        "text": "—. ¿Adónde vamos?\n—Al Hotel del Sol, por favor.\nEl "
-      },
-      {
-        "text": "conductor",
-        "wordId": "conductor"
-      },
-      {
-        "text": " no arranca el coche. Mira a Pablo y pregunta:\n—¿Al del centro o al que está cerca del parque?"
-      }
-    ],
-    [
-      {
-        "text": "Pablo abre los ojos. ¡Hay dos hoteles con nombres casi iguales! Mira su "
-      },
-      {
-        "text": "reserva",
-        "wordId": "reserva"
-      },
-      {
-        "text": " en el teléfono, pero la "
-      },
-      {
-        "text": "pantalla",
-        "wordId": "pantalla"
-      },
-      {
-        "text": " está muy oscura. El "
-      },
-      {
-        "text": "conductor",
-        "wordId": "conductor"
-      },
-      {
-        "text": " señala un botón y Pablo puede leer la información."
-      }
-    ],
-    [
-      {
-        "text": "—Aquí está la "
+        "text": ".\nPablo entra y mira la "
       },
       {
         "text": "dirección",
         "wordId": "direccion"
       },
       {
-        "text": ": Hotel del Sol, "
-      },
-      {
-        "text": "calle",
-        "wordId": "calle"
-      },
-      {
-        "text": " Luna, número doce.\n—Perfecto. Es el del centro. El otro se llama Hotel Sol.\n—¡Ah! No quiero dormir en otro hotel —dice Pablo.\nLos dos se ríen."
-      }
-    ],
-    [
-      {
-        "text": "Durante el "
+        "text": " en su teléfono.\n—Al Hotel del Sol, en la calle Luna, número doce, por favor.\n—Muy bien. El "
       },
       {
         "text": "viaje",
         "wordId": "viaje"
       },
       {
-        "text": ", Pablo mira por la ventana. Ve casas de muchos colores, pequeñas tiendas y un parque con árboles grandes. El "
+        "text": " dura unos cuarenta minutos."
+      }
+    ],
+    [
+      {
+        "text": "Pablo mira por la ventana. Ve casas de muchos colores y pequeñas tiendas. El "
       },
       {
         "text": "conductor",
         "wordId": "conductor"
       },
       {
-        "text": " habla despacio y Pablo hace algunas preguntas sobre la ciudad."
+        "text": " le pregunta si es su primera visita a México.\n—Sí. Mi amigo Diego vive aquí —responde Pablo.\nDespués habla poco. Solo piensa en una ducha y una cama."
       }
     ],
     [
       {
-        "text": "El taxi para delante del hotel. Pablo paga y toma su "
+        "text": "El taxi para delante del hotel. Pablo paga, toma su "
       },
       {
         "text": "maleta",
         "wordId": "maleta"
       },
       {
-        "text": ". En la "
+        "text": " y entra. En "
       },
       {
-        "text": "entrada",
-        "wordId": "entrada"
+        "text": "recepción",
+        "wordId": "recepcion"
       },
       {
-        "text": " hay un hombre con dos vasos de agua. ¡Es Diego!"
+        "text": ", una mujer le sonríe.\n—Buenas tardes. ¿Tiene una "
+      },
+      {
+        "text": "reserva",
+        "wordId": "reserva"
+      },
+      {
+        "text": "?\n—Sí, a nombre de Pablo Martín.\n—Su "
+      },
+      {
+        "text": "pasaporte",
+        "wordId": "pasaporte"
+      },
+      {
+        "text": ", por favor."
       }
     ],
     [
       {
-        "text": "—¡Pablo! ¿Todo bien?\n—Sí. Pero necesito agua y una cama.\nDiego le da un vaso y sonríe.\n—Primero vamos a "
+        "text": "La mujer mira el ordenador.\n—Su "
       },
       {
-        "text": "buscar",
-        "wordId": "buscar"
+        "text": "habitación",
+        "wordId": "habitacion"
       },
       {
-        "text": " tu "
+        "text": " todavía no está lista. Tiene que "
+      },
+      {
+        "text": "esperar",
+        "wordId": "esperar"
+      },
+      {
+        "text": " treinta minutos como máximo. Puede sentarse aquí.\n—Está bien, gracias.\nPablo se sienta en un sofá. Deja la "
+      },
+      {
+        "text": "maleta",
+        "wordId": "maleta"
+      },
+      {
+        "text": " a su lado y escribe a Diego:"
+      }
+    ],
+    [
+      {
+        "text": "«¡Hola, Diego! Estoy bien. Todo bien con el "
+      },
+      {
+        "text": "vuelo",
+        "wordId": "vuelo"
+      },
+      {
+        "text": ". Ya estoy en el hotel. Estoy en "
+      },
+      {
+        "text": "recepción",
+        "wordId": "recepcion"
+      },
+      {
+        "text": " y espero la "
       },
       {
         "text": "llave",
         "wordId": "llave"
       },
       {
-        "text": ".\nPablo mira el nombre del hotel una vez más. Sí, este es su hotel."
+        "text": ". Estoy muy "
+      },
+      {
+        "text": "cansado",
+        "wordId": "cansado"
+      },
+      {
+        "text": ". Te llamo más tarde»."
+      }
+    ],
+    [
+      {
+        "text": "Diego responde: «¡Qué bien! Descansa. Hablamos después».\nPablo guarda el teléfono y cierra los ojos un momento."
+      }
+    ],
+    [
+      {
+        "text": "Veinte minutos después, la mujer lo llama.\n—Señor Martín, su "
+      },
+      {
+        "text": "habitación",
+        "wordId": "habitacion"
+      },
+      {
+        "text": " ya está lista. Aquí tiene la "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": ".\nPablo le da las gracias y sube a su "
+      },
+      {
+        "text": "habitación",
+        "wordId": "habitacion"
+      },
+      {
+        "text": ". Deja la "
+      },
+      {
+        "text": "maleta",
+        "wordId": "maleta"
+      },
+      {
+        "text": " y se sienta en la cama. Por fin puede descansar."
       }
     ]
   ]
