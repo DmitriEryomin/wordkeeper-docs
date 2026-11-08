@@ -31,6 +31,51 @@
       "languageCode": "es",
       "translationLanguageCode": "ru",
       "readingMinutes": 3
+    },
+    {
+      "id": "el-taxi-y-el-hotel-a1-ru",
+      "title": {
+        "en": "The taxi and the hotel",
+        "de": "Das Taxi und das Hotel"
+      },
+      "description": {
+        "en": "Pablo arrives in Mexico, but two similar hotel names make his taxi trip a puzzle.",
+        "de": "Pablo kommt in Mexiko an, doch zwei ähnliche Hotelnamen machen seine Taxifahrt zum Rätsel."
+      },
+      "level": "A1",
+      "languageCode": "es",
+      "translationLanguageCode": "ru",
+      "readingMinutes": 3
+    },
+    {
+      "id": "una-oportunidad-de-trabajo-a1-ru",
+      "title": {
+        "en": "A job opportunity",
+        "de": "Eine berufliche Chance"
+      },
+      "description": {
+        "en": "At a job fair in Mexico, Pablo talks about machines and discovers a shared love of football.",
+        "de": "Auf einer Jobmesse in Mexiko spricht Pablo über Maschinen und entdeckt eine gemeinsame Liebe zum Fußball."
+      },
+      "level": "A1",
+      "languageCode": "es",
+      "translationLanguageCode": "ru",
+      "readingMinutes": 3
+    },
+    {
+      "id": "todo-listo-para-el-partido-a1-ru",
+      "title": {
+        "en": "Ready for the match",
+        "de": "Bereit für das Spiel"
+      },
+      "description": {
+        "en": "An invitation to play football sends Pablo shopping for shoes that fit his feet and his budget.",
+        "de": "Nach einer Einladung zum Fußball sucht Pablo Schuhe, die passen und nicht zu viel kosten."
+      },
+      "level": "A1",
+      "languageCode": "es",
+      "translationLanguageCode": "ru",
+      "readingMinutes": 3
     }
   ]
 }

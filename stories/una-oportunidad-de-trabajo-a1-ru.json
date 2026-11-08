@@ -1,0 +1,260 @@
+{
+  "format": "wordkeeper-story",
+  "formatVersion": 1,
+  "id": "una-oportunidad-de-trabajo-a1-ru",
+  "title": {
+    "en": "A job opportunity",
+    "de": "Eine berufliche Chance"
+  },
+  "description": {
+    "en": "At a job fair in Mexico, Pablo talks about machines and discovers a shared love of football.",
+    "de": "Auf einer Jobmesse in Mexiko spricht Pablo über Maschinen und entdeckt eine gemeinsame Liebe zum Fußball."
+  },
+  "level": "A1",
+  "languageCode": "es",
+  "translationLanguageCode": "ru",
+  "readingMinutes": 3,
+  "name": "Una oportunidad de trabajo",
+  "words": [
+    {
+      "id": "feria-de-empleo",
+      "term": "feria de empleo",
+      "translation": "ярмарка вакансий"
+    },
+    {
+      "id": "ingeniero-mecanico",
+      "term": "ingeniero mecánico",
+      "translation": "инженер-механик"
+    },
+    {
+      "id": "empresa",
+      "term": "empresa",
+      "translation": "компания"
+    },
+    {
+      "id": "maquinas",
+      "term": "máquina",
+      "translation": "машина; механизм"
+    },
+    {
+      "id": "planos",
+      "term": "plano",
+      "translation": "чертёж"
+    },
+    {
+      "id": "equipo",
+      "term": "equipo",
+      "translation": "команда"
+    },
+    {
+      "id": "problema",
+      "term": "problema",
+      "translation": "проблема"
+    },
+    {
+      "id": "dibujo",
+      "term": "dibujo",
+      "translation": "рисунок"
+    },
+    {
+      "id": "aficiones",
+      "term": "afición",
+      "translation": "увлечение"
+    },
+    {
+      "id": "futbol",
+      "term": "fútbol",
+      "translation": "футбол"
+    },
+    {
+      "id": "partido",
+      "term": "partido",
+      "translation": "матч"
+    },
+    {
+      "id": "companeros",
+      "term": "compañero",
+      "translation": "коллега; товарищ"
+    },
+    {
+      "id": "zapatos-de-futbol",
+      "term": "zapatos de fútbol",
+      "translation": "футбольные бутсы"
+    },
+    {
+      "id": "calcetines",
+      "term": "calcetín",
+      "translation": "носок"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Pablo es "
+      },
+      {
+        "text": "ingeniero mecánico",
+        "wordId": "ingeniero-mecanico"
+      },
+      {
+        "text": " y vive en España. Está de visita en México y quiere conocer empresas del país. Su amigo Diego le habla de una "
+      },
+      {
+        "text": "feria de empleo",
+        "wordId": "feria-de-empleo"
+      },
+      {
+        "text": ". Por la mañana, Pablo va a la feria con su currículum."
+      }
+    ],
+    [
+      {
+        "text": "Hay muchas mesas y carteles. Pablo se acerca a una "
+      },
+      {
+        "text": "empresa",
+        "wordId": "empresa"
+      },
+      {
+        "text": " que trabaja con "
+      },
+      {
+        "text": "máquinas",
+        "wordId": "maquinas"
+      },
+      {
+        "text": ". Un hombre le sonríe.\n—Hola, soy Luis. Busco personas para nuestra "
+      },
+      {
+        "text": "empresa",
+        "wordId": "empresa"
+      },
+      {
+        "text": ". ¿Cómo te llamas?\n—Pablo. Soy de España y soy "
+      },
+      {
+        "text": "ingeniero mecánico",
+        "wordId": "ingeniero-mecanico"
+      },
+      {
+        "text": "."
+      }
+    ],
+    [
+      {
+        "text": "Luis mira su currículum.\n—¿Qué sabes hacer?\n—Dibujo "
+      },
+      {
+        "text": "planos",
+        "wordId": "planos"
+      },
+      {
+        "text": ", trabajo con "
+      },
+      {
+        "text": "máquinas",
+        "wordId": "maquinas"
+      },
+      {
+        "text": " y busco soluciones. También me gusta trabajar en "
+      },
+      {
+        "text": "equipo",
+        "wordId": "equipo"
+      },
+      {
+        "text": ".\n—Muy bien. Aquí tenemos una máquina con un "
+      },
+      {
+        "text": "problema",
+        "wordId": "problema"
+      },
+      {
+        "text": ".\nLuis le enseña una foto. La máquina está al lado de una pared. Su puerta no se puede abrir."
+      }
+    ],
+    [
+      {
+        "text": "Pablo quiere explicar una idea, pero no encuentra una palabra. Busca un lápiz en su mochila.\n—Un momento, por favor. Con un "
+      },
+      {
+        "text": "dibujo",
+        "wordId": "dibujo"
+      },
+      {
+        "text": " es más fácil.\nDibuja la máquina, la pared y una flecha.\n—Podemos poner la máquina aquí. Hay más espacio para abrir la puerta.\n—¡Claro! —dice Luis—. Ahora entiendo."
+      }
+    ],
+    [
+      {
+        "text": "Después, Luis pregunta:\n—¿Y qué haces fuera del trabajo? ¿Cuáles son tus "
+      },
+      {
+        "text": "aficiones",
+        "wordId": "aficiones"
+      },
+      {
+        "text": "?\n—Me gusta caminar, cocinar y jugar al "
+      },
+      {
+        "text": "fútbol",
+        "wordId": "futbol"
+      },
+      {
+        "text": ".\n—¡A mí también me gusta el "
+      },
+      {
+        "text": "fútbol",
+        "wordId": "futbol"
+      },
+      {
+        "text": "! Mañana juego un "
+      },
+      {
+        "text": "partido",
+        "wordId": "partido"
+      },
+      {
+        "text": " con mis "
+      },
+      {
+        "text": "compañeros",
+        "wordId": "companeros"
+      },
+      {
+        "text": ". ¿Quieres venir?"
+      }
+    ],
+    [
+      {
+        "text": "Pablo sonríe, pero mira sus pies.\n—Sí, gracias. Solo tengo estos zapatos. Necesito "
+      },
+      {
+        "text": "zapatos de fútbol",
+        "wordId": "zapatos-de-futbol"
+      },
+      {
+        "text": " y "
+      },
+      {
+        "text": "calcetines",
+        "wordId": "calcetines"
+      },
+      {
+        "text": " largos.\n—Hay una tienda de deportes cerca de tu hotel. Jugamos a las seis, en el parque."
+      }
+    ],
+    [
+      {
+        "text": "Luis escribe su número de teléfono y la dirección del campo. Pablo guarda el papel con cuidado. Todavía no tiene un nuevo trabajo, pero mañana tiene un "
+      },
+      {
+        "text": "partido",
+        "wordId": "partido"
+      },
+      {
+        "text": ". ¡Ahora necesita encontrar una tienda!"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "format": "wordkeeper-story",
+  "formatVersion": 1,
+  "id": "el-taxi-y-el-hotel-a1-ru",
+  "title": {
+    "en": "The taxi and the hotel",
+    "de": "Das Taxi und das Hotel"
+  },
+  "description": {
+    "en": "Pablo arrives in Mexico, but two similar hotel names make his taxi trip a puzzle.",
+    "de": "Pablo kommt in Mexiko an, doch zwei ähnliche Hotelnamen machen seine Taxifahrt zum Rätsel."
+  },
+  "level": "A1",
+  "languageCode": "es",
+  "translationLanguageCode": "ru",
+  "readingMinutes": 3,
+  "name": "El taxi y el hotel",
+  "words": [
+    {
+      "id": "aeropuerto",
+      "term": "aeropuerto",
+      "translation": "аэропорт"
+    },
+    {
+      "id": "maleta",
+      "term": "maleta",
+      "translation": "чемодан"
+    },
+    {
+      "id": "salida",
+      "term": "salida",
+      "translation": "выход"
+    },
+    {
+      "id": "conductor",
+      "term": "conductor",
+      "translation": "водитель"
+    },
+    {
+      "id": "reserva",
+      "term": "reserva",
+      "translation": "бронирование"
+    },
+    {
+      "id": "direccion",
+      "term": "dirección",
+      "translation": "адрес"
+    },
+    {
+      "id": "calle",
+      "term": "calle",
+      "translation": "улица"
+    },
+    {
+      "id": "pantalla",
+      "term": "pantalla",
+      "translation": "экран"
+    },
+    {
+      "id": "buscar",
+      "term": "buscar",
+      "translation": "искать"
+    },
+    {
+      "id": "viaje",
+      "term": "viaje",
+      "translation": "поездка"
+    },
+    {
+      "id": "entrada",
+      "term": "entrada",
+      "translation": "вход"
+    },
+    {
+      "id": "llave",
+      "term": "llave",
+      "translation": "ключ"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Pablo es de España y es ingeniero mecánico. Hoy llega a México. Quiere visitar a su amigo Diego y conocer la ciudad. En el "
+      },
+      {
+        "text": "aeropuerto",
+        "wordId": "aeropuerto"
+      },
+      {
+        "text": " hay mucha gente. Pablo tiene una "
+      },
+      {
+        "text": "maleta",
+        "wordId": "maleta"
+      },
+      {
+        "text": " azul, una mochila y mucho sueño."
+      }
+    ],
+    [
+      {
+        "text": "Busca la "
+      },
+      {
+        "text": "salida",
+        "wordId": "salida"
+      },
+      {
+        "text": " y ve una fila de taxis. Mira su teléfono. Su hotel se llama Hotel del Sol. Diego lo espera allí a las seis. Son las cinco y Pablo quiere llegar pronto."
+      }
+    ],
+    [
+      {
+        "text": "—Buenas tardes. ¿Está libre? —pregunta Pablo.\n—Sí, adelante —dice el "
+      },
+      {
+        "text": "conductor",
+        "wordId": "conductor"
+      },
+      {
+        "text": "—. ¿Adónde vamos?\n—Al Hotel del Sol, por favor.\nEl "
+      },
+      {
+        "text": "conductor",
+        "wordId": "conductor"
+      },
+      {
+        "text": " no arranca el coche. Mira a Pablo y pregunta:\n—¿Al del centro o al que está cerca del parque?"
+      }
+    ],
+    [
+      {
+        "text": "Pablo abre los ojos. ¡Hay dos hoteles con nombres casi iguales! Mira su "
+      },
+      {
+        "text": "reserva",
+        "wordId": "reserva"
+      },
+      {
+        "text": " en el teléfono, pero la "
+      },
+      {
+        "text": "pantalla",
+        "wordId": "pantalla"
+      },
+      {
+        "text": " está muy oscura. El "
+      },
+      {
+        "text": "conductor",
+        "wordId": "conductor"
+      },
+      {
+        "text": " señala un botón y Pablo puede leer la información."
+      }
+    ],
+    [
+      {
+        "text": "—Aquí está la "
+      },
+      {
+        "text": "dirección",
+        "wordId": "direccion"
+      },
+      {
+        "text": ": Hotel del Sol, "
+      },
+      {
+        "text": "calle",
+        "wordId": "calle"
+      },
+      {
+        "text": " Luna, número doce.\n—Perfecto. Es el del centro. El otro se llama Hotel Sol.\n—¡Ah! No quiero dormir en otro hotel —dice Pablo.\nLos dos se ríen."
+      }
+    ],
+    [
+      {
+        "text": "Durante el "
+      },
+      {
+        "text": "viaje",
+        "wordId": "viaje"
+      },
+      {
+        "text": ", Pablo mira por la ventana. Ve casas de muchos colores, pequeñas tiendas y un parque con árboles grandes. El "
+      },
+      {
+        "text": "conductor",
+        "wordId": "conductor"
+      },
+      {
+        "text": " habla despacio y Pablo hace algunas preguntas sobre la ciudad."
+      }
+    ],
+    [
+      {
+        "text": "El taxi para delante del hotel. Pablo paga y toma su "
+      },
+      {
+        "text": "maleta",
+        "wordId": "maleta"
+      },
+      {
+        "text": ". En la "
+      },
+      {
+        "text": "entrada",
+        "wordId": "entrada"
+      },
+      {
+        "text": " hay un hombre con dos vasos de agua. ¡Es Diego!"
+      }
+    ],
+    [
+      {
+        "text": "—¡Pablo! ¿Todo bien?\n—Sí. Pero necesito agua y una cama.\nDiego le da un vaso y sonríe.\n—Primero vamos a "
+      },
+      {
+        "text": "buscar",
+        "wordId": "buscar"
+      },
+      {
+        "text": " tu "
+      },
+      {
+        "text": "llave",
+        "wordId": "llave"
+      },
+      {
+        "text": ".\nPablo mira el nombre del hotel una vez más. Sí, este es su hotel."
+      }
+    ]
+  ]
+}

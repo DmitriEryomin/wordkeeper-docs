@@ -1,0 +1,269 @@
+{
+  "format": "wordkeeper-story",
+  "formatVersion": 1,
+  "id": "todo-listo-para-el-partido-a1-ru",
+  "title": {
+    "en": "Ready for the match",
+    "de": "Bereit für das Spiel"
+  },
+  "description": {
+    "en": "An invitation to play football sends Pablo shopping for shoes that fit his feet and his budget.",
+    "de": "Nach einer Einladung zum Fußball sucht Pablo Schuhe, die passen und nicht zu viel kosten."
+  },
+  "level": "A1",
+  "languageCode": "es",
+  "translationLanguageCode": "ru",
+  "readingMinutes": 3,
+  "name": "Todo listo para el partido",
+  "words": [
+    {
+      "id": "tienda-de-deportes",
+      "term": "tienda de deportes",
+      "translation": "спортивный магазин"
+    },
+    {
+      "id": "partido",
+      "term": "partido",
+      "translation": "матч"
+    },
+    {
+      "id": "dependienta",
+      "term": "dependienta",
+      "translation": "продавщица"
+    },
+    {
+      "id": "zapatos-de-futbol",
+      "term": "zapatos de fútbol",
+      "translation": "футбольные бутсы"
+    },
+    {
+      "id": "calcetines",
+      "term": "calcetín",
+      "translation": "носок"
+    },
+    {
+      "id": "numero",
+      "term": "número",
+      "translation": "размер обуви"
+    },
+    {
+      "id": "pequenos",
+      "term": "pequeño",
+      "translation": "маленький"
+    },
+    {
+      "id": "cuestan",
+      "term": "costar",
+      "translation": "стоить"
+    },
+    {
+      "id": "caros",
+      "term": "caro",
+      "translation": "дорогой"
+    },
+    {
+      "id": "comodos",
+      "term": "cómodo",
+      "translation": "удобный"
+    },
+    {
+      "id": "espejo",
+      "term": "espejo",
+      "translation": "зеркало"
+    },
+    {
+      "id": "pagar",
+      "term": "pagar",
+      "translation": "платить"
+    },
+    {
+      "id": "bolsa",
+      "term": "bolsa",
+      "translation": "пакет"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Pablo está de visita en México. Hoy tiene un plan especial: jugar al fútbol con Luis y sus compañeros de trabajo. La invitación es de Luis, su nuevo amigo de la feria de empleo. Pero Pablo necesita ropa para jugar."
+      }
+    ],
+    [
+      {
+        "text": "Por la mañana, entra en una "
+      },
+      {
+        "text": "tienda de deportes",
+        "wordId": "tienda-de-deportes"
+      },
+      {
+        "text": " cerca de su hotel. Hay camisetas, balones y muchos zapatos. Una "
+      },
+      {
+        "text": "dependienta",
+        "wordId": "dependienta"
+      },
+      {
+        "text": " se acerca.\n—Buenos días. ¿Qué necesita?\n—Necesito "
+      },
+      {
+        "text": "zapatos de fútbol",
+        "wordId": "zapatos-de-futbol"
+      },
+      {
+        "text": " y "
+      },
+      {
+        "text": "calcetines",
+        "wordId": "calcetines"
+      },
+      {
+        "text": " largos, por favor. Esta tarde tengo un "
+      },
+      {
+        "text": "partido",
+        "wordId": "partido"
+      },
+      {
+        "text": "."
+      }
+    ],
+    [
+      {
+        "text": "—¿Qué "
+      },
+      {
+        "text": "número",
+        "wordId": "numero"
+      },
+      {
+        "text": " usa?\n—El cuarenta y dos.\nLa "
+      },
+      {
+        "text": "dependienta",
+        "wordId": "dependienta"
+      },
+      {
+        "text": " trae unos zapatos azules. A Pablo le encanta el color. Se sienta y se los pone, pero no puede mover bien los dedos.\n—Son muy "
+      },
+      {
+        "text": "pequeños",
+        "wordId": "pequenos"
+      },
+      {
+        "text": ". ¿Tiene un "
+      },
+      {
+        "text": "número",
+        "wordId": "numero"
+      },
+      {
+        "text": " más?\n—En azul, no. Pero tenemos estos blancos."
+      }
+    ],
+    [
+      {
+        "text": "Los blancos son del "
+      },
+      {
+        "text": "número",
+        "wordId": "numero"
+      },
+      {
+        "text": " cuarenta y tres. Pablo mira el precio: mil quinientos pesos.\n—Son bonitos, pero son muy "
+      },
+      {
+        "text": "caros",
+        "wordId": "caros"
+      },
+      {
+        "text": " para mí. Tengo mil pesos para los zapatos y los "
+      },
+      {
+        "text": "calcetines",
+        "wordId": "calcetines"
+      },
+      {
+        "text": ".\nLa "
+      },
+      {
+        "text": "dependienta",
+        "wordId": "dependienta"
+      },
+      {
+        "text": " piensa un momento y busca otra caja."
+      }
+    ],
+    [
+      {
+        "text": "—Estos negros "
+      },
+      {
+        "text": "cuestan",
+        "wordId": "cuestan"
+      },
+      {
+        "text": " setecientos pesos. ¿Quiere probarlos?\nPablo se los pone y camina un poco por la tienda. Da un paso largo y después otro.\n—¡Estos sí! Son "
+      },
+      {
+        "text": "cómodos",
+        "wordId": "comodos"
+      },
+      {
+        "text": ". Mis pies están contentos.\nLa "
+      },
+      {
+        "text": "dependienta",
+        "wordId": "dependienta"
+      },
+      {
+        "text": " se ríe y le trae unos "
+      },
+      {
+        "text": "calcetines",
+        "wordId": "calcetines"
+      },
+      {
+        "text": " largos."
+      }
+    ],
+    [
+      {
+        "text": "—Cuestan cien pesos. En total son ochocientos.\nPablo mira sus pies en el "
+      },
+      {
+        "text": "espejo",
+        "wordId": "espejo"
+      },
+      {
+        "text": ". Los zapatos no son azules, pero puede correr con ellos. Eso es más importante para el "
+      },
+      {
+        "text": "partido",
+        "wordId": "partido"
+      },
+      {
+        "text": "."
+      }
+    ],
+    [
+      {
+        "text": "Después de "
+      },
+      {
+        "text": "pagar",
+        "wordId": "pagar"
+      },
+      {
+        "text": ", sale con su "
+      },
+      {
+        "text": "bolsa",
+        "wordId": "bolsa"
+      },
+      {
+        "text": ". En el teléfono tiene un mensaje de Luis: «¡Nos vemos a las seis!».\nPablo responde: «¡Perfecto! Ya tengo todo».\nAhora solo necesita encontrar el campo. Por suerte, tiene la dirección."
+      }
+    ]
+  ]
+}
